@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from 'react';
 import { ArrowRight, Clock, Lock } from 'lucide-react';
 
@@ -41,7 +40,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-escape-dark via-escape-dark to-escape-medium opacity-95 z-10" />
         <div className="absolute inset-0 grid-pattern opacity-20 z-0" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(26,31,44,0)_0%,_rgba(26,31,44,0.8)_70%)] z-10" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(15,23,42,0)_0%,_rgba(15,23,42,0.8)_70%)] z-10" />
       </div>
 
       {/* Content */}
@@ -62,7 +61,7 @@ const Hero = () => {
                 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight md:leading-tight lg:leading-tight text-glow opacity-0 transform transition-all duration-700 ease-out"
               >
                 Escape the Ordinary, <br />
-                <span className="text-escape-gold">Enter the Fold</span>
+                <span className="text-escape-gold">Embrace the Mystery</span>
               </h1>
               
               <p 
