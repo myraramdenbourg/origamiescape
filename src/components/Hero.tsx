@@ -1,3 +1,4 @@
+
 import React, { useEffect, useRef } from 'react';
 import { ArrowRight, Clock, Lock } from 'lucide-react';
 
@@ -61,7 +62,7 @@ const Hero = () => {
                 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight md:leading-tight lg:leading-tight text-glow opacity-0 transform transition-all duration-700 ease-out"
               >
                 Escape the Ordinary, <br />
-                <span className="text-escape-gold">Embrace the Mystery</span>
+                <span className="text-escape-gold">Enter the Fold</span>
               </h1>
               
               <p 
