@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className="flex items-center">
           <a href="/" className="inline-flex items-center">
             <span className="text-2xl font-bold font-serif tracking-tight text-escape-highlight">
-              ESCAPADE
+              ORIGAMI ESCAPE
             </span>
           </a>
         </div>

@@ -16,7 +16,7 @@ const Footer = () => {
           <div>
             <a href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold font-serif text-escape-highlight">
-                ESCAPADE
+                ORIGAMI ESCAPE
               </span>
             </a>
             <p className="text-escape-highlight/70 mb-6">
@@ -113,8 +113,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 text-escape-gold mr-3 flex-shrink-0" />
-                <a href="mailto:info@escapade.com" className="text-escape-highlight/70 hover:text-escape-highlight">
-                  info@escapade.com
+                <a href="mailto:info@origamiescape.com" className="text-escape-highlight/70 hover:text-escape-highlight">
+                  info@origamiescape.com
                 </a>
               </li>
               <li className="flex items-start">
@@ -154,7 +154,7 @@ const Footer = () => {
         {/* Copyright & Policy Links */}
         <div className="pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-escape-highlight/60 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} Escapade. All rights reserved.
+            &copy; {currentYear} Origami Escape. All rights reserved.
           </p>
           
           <div className="flex flex-wrap justify-center space-x-4 text-sm">
